@@ -4,7 +4,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=28B87F&center=true&width=400&height=200&lines=Welcome.;Do+not+give+up%2C;everyone+has+their+own+time!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=8A3EE5FF&center=true&width=400&height=200&lines=Welcome.;Do+not+give+up%2C;everyone+has+their+own+time!)](https://git.io/typing-svg)
 
 
 
