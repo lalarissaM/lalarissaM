@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9239E3&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Welcome.;Do+not+give+up%2C;everyone+has+their+own+time!)](https://git.io/typing-svg)
 
+
 - 📫 How to reach me **larissaae@hotmail.com.br**
 
 
